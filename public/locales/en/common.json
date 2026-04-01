@@ -285,6 +285,12 @@
         "queued": "Queued",
         "books": "Books"
     },
+    "remnawave": {
+        "usersOnline": "Users Online",
+        "nodesOnline": "Nodes Online",
+        "bandwidthToday": "BW Today",
+        "bandwidthSevenDays": "BW 7 Days"
+    },
     "bazarr": {
         "missingEpisodes": "Missing Episodes",
         "missingMovies": "Missing Movies"
